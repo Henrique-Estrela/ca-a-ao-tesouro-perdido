@@ -1,0 +1,14 @@
+INÍCIO
+  CRIAR fila com pessoas: A, B, C, D, E
+
+  # Atendendo duas pessoas (removendo do início da fila)
+  REMOVER pessoa da fila
+  REMOVER pessoa da fila
+
+  # Chegam duas novas pessoas
+  ADICIONAR F à fila
+  ADICIONAR G à fila
+
+  # Mostrar a pessoa que está no início da fila
+  MOSTRAR pessoa no início da fila
+FIM
