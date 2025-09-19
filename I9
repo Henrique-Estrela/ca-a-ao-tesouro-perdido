@@ -1,0 +1,93 @@
+# 🗺️ Insígnia do Tesouro
+# Região: Ilha das Respostas
+
+# Preencha as respostas que você encontrou em cada insígnia
+resposta1 = ""          # Exemplo da Insígnia 1
+resposta2 = ""           # Insígnia 2
+resposta3 = ""           # Insígnia 3
+resposta4 = ""           # Insígnia 4
+resposta5 = ""           # Insígnia 5
+resposta6 = ""           # Insígnia 6
+resposta7 = ""   # Insígnia 7
+resposta8 = ""   # Insígnia 8
+
+print("Coletando todas as pistas...")
+
+# Concatena todas as respostas para formar a frase final
+frase_final = (
+    resposta1 + " " +
+    resposta2 + " " +
+    resposta3 + " " +
+    resposta4 + " " +
+    resposta5 + " " +
+    resposta6 + " " +
+    resposta7 + " " 
+)
+
+
+print("\nParabéns, aventureiro!")
+print("O tesouro foi encontrado no local secreto:")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+if resposta8 != "987654321" or resposta6 != "D" or resposta5 != "A" or resposta4 != "L" or resposta3 != "A" or resposta2 != "S" or resposta1 != "aN":
+     frase_final += " Tem algo errado amigo/a, volte mais tarde!"
+else:
+    frase_final += " - Lab 4"
+
+print(frase_final)
+print("Corra logo!")  # Exibe o número final do tesouro
